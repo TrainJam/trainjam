@@ -25,6 +25,10 @@ Interested in tools for thought, IPFS, decentralized social, cohousing, collabor
 Things I might work on:
 * [Subconscious](https://subconscious.network/) will have launched Noosphere by this time, and I want to switch to using it as the primary store for my [personal digital garden](https://bmannconsulting.com)
 
+Things I am bringing:
+* unconference supplies - sticky notes, tape, paper, pens
+* shared larger power bar
+
 ### Add Your Attendee Name
 
 * some links to
@@ -33,5 +37,8 @@ Things I might work on:
 
 What are you interested in? What are you working on?
 
-Things you might work on:
+Things I might work on:
 * a link and description of a thing you think you'll work on
+
+Things I am bringing:
+* maybe a board game?
