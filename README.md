@@ -32,7 +32,7 @@ Some links
 * During the ride, I'll be working on the slides for the [Strange Loop talk](https://www.thestrangeloop.com/2023/an-approach-to-computing-and-sustainability-inspired-from-permaculture.html).
 * Get in touch on fediverse https://merveilles.town/@neauoire
 
-### Kartik Agaram
+### [Kartik Agaram](https://akkartik.name)
 
 I believe open source is essential, but not good enough. Some additional invariants:
 * Software should reward curiosity, be easy for outsiders to unfold.
