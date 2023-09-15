@@ -15,19 +15,10 @@ A group of people interested in software retreats, and trains! Background on the
 
 _Feel free to PR a section for yourself. Or, [tag a post on the Fediverse with #TrainJam](https://cosocial.ca/tags/TrainJam)_.
 
-### Boris Mann
+### Avi Bryant
 
-* Personal https://bmann.ca
-* Work https://fission.codes
-
-Interested in tools for thought, IPFS, decentralized social, cohousing, collaborative and cooperative funding models for software and services. Likes to cook & eat.
-
-Things I might work on:
-* [Subconscious](https://subconscious.network/) will have launched Noosphere by this time, and I want to switch to using it as the primary store for my [personal digital garden](https://bmannconsulting.com)
-
-Things I am bringing:
-* unconference supplies - sticky notes, tape, paper, pens
-* shared larger power bar
+* Gradient Retreat https://www.gradientretreat.com/
+* Github https://github.com/avibryant
 
 ### Add Your Attendee Name
 
