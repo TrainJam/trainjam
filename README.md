@@ -20,6 +20,12 @@ _Feel free to PR a section for yourself. Or, [tag a post on the Fediverse with #
 * Gradient Retreat https://www.gradientretreat.com/
 * Github https://github.com/avibryant
 
+### Devine Lu Linvega
+
+* Hundred Rabbits https://100r.co
+* During the ride, I'll be working on uxn https://wiki.xxiivv.com/site/uxn
+* **Mastodon** https://merveilles.town/@neauoire
+
 ### Kartik Agaram
 
 I believe open source is essential, but not good enough. Some additional invariants:
@@ -39,7 +45,7 @@ For TrainJam I'd be quite pleased to _not_ hack on any of my projects. My priori
 
 ### Add Your Attendee Name
 
-* some links to
+* somelinks to
 * your stuff
 * is great to share
 
