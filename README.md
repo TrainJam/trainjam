@@ -49,6 +49,17 @@ For TrainJam I'd be quite pleased to _not_ hack on any of my projects. My priori
 * Be available to anyone interested in playing with my projects. If this stuff seems interesting, you might want to prepare for TrainJam by installing [LÖVE](https://love2d.org) on your preferred devices. Expected time burden: 5 minutes. (Please buttonhole me and tell me if this was optimistic!)
 * Try out your projects as a way to get to know you.
 
+### Brian
+
+* GitHub https://github.com/bgins
+* Fission https://fission.codes/
+* ODD SDK https://odd.dev/
+* Maker of web audio apps like https://coincident-spectra.fission.app/
+
+I might be hacking on a workshop that uses the ODD SDK: https://github.com/oddsdk/local-first-unconf-workshop-2023. Also quite looking forward to trying out projects that other jammers are working on!
+
+Bringing good cofee and implements to make it. Will also have a Fluxx card game to play.
+
 ### Add Your Attendee Name
 
 * somelinks to
