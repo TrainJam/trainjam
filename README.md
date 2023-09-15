@@ -26,6 +26,23 @@ _Feel free to PR a section for yourself. Or, [tag a post on the Fediverse with #
 * During the ride, I'll be working on uxn https://wiki.xxiivv.com/site/uxn
 * **Mastodon** https://merveilles.town/@neauoire
 
+### Kartik Agaram
+
+I believe open source is essential, but not good enough. Some additional invariants:
+* Software should reward curiosity, be easy for outsiders to unfold.
+* If you can use a program, you should be able to modify the program. No installing additional tools.
+* Good software is stable software. It updates infrequently, and updates are considered optional.
+
+Some links to my projects in service of these beliefs:
+* https://akkartik.name/freewheeling -- dense, scripted, kinda-theoretical 20-minute talk elaborating on my beliefs and showing how I currently satisfy my invariants
+* https://www.youtube.com/watch?v=aD6vmbmzdBo -- more spontaneous, relaxed, crappy demo on how my approach works in practice, and how my various little tools compose together in practice
+* https://love2d.org/forums/viewtopic.php?t=94852 -- newest experiment: expanding my tools to support mobile devices
+
+For TrainJam I'd be quite pleased to _not_ hack on any of my projects. My priorities:
+* Take in the sights. I love trains and have suffered a train deficit for the past 25 years.
+* Be available to anyone interested in playing with my projects. If this stuff seems interesting, you might want to prepare for TrainJam by installing [LÖVE](https://love2d.org) on your preferred devices. Expected time burden: 5 minutes. (Please buttonhole me and tell me if this was optimistic!)
+* Try out your projects as a way to get to know you.
+
 ### Add Your Attendee Name
 
 * somelinks to
