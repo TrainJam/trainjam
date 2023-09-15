@@ -20,9 +20,15 @@ _Feel free to PR a section for yourself. Or, [tag a post on the Fediverse with #
 * Gradient Retreat https://www.gradientretreat.com/
 * Github https://github.com/avibryant
 
+### Devine Lu Linvega
+
+* Hundred Rabbits https://100r.co
+* During the ride, I'll be working on uxn https://wiki.xxiivv.com/site/uxn
+* **Mastodon** https://merveilles.town/@neauoire
+
 ### Add Your Attendee Name
 
-* some links to
+* somelinks to
 * your stuff
 * is great to share
 
