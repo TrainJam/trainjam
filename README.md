@@ -22,8 +22,13 @@ _Feel free to PR a section for yourself. Or, [tag a post on the Fediverse with #
 
 ### Devine Lu Linvega
 
-* Hundred Rabbits https://100r.co
-* During the ride, I'll be working on uxn https://wiki.xxiivv.com/site/uxn
+I believe that obsessing over programming languages is an obstacle to understanding computer science.
+* If your new software no longer runs on old hardware, it is worse than the old software. 
+* To make fast software, you need a slow computer.
+
+Some links
+* [Hundred Rabbits](https://100r.co)
+* During the ride, I'll be working on the slides for the [Strange Loop talk](https://www.thestrangeloop.com/2023/an-approach-to-computing-and-sustainability-inspired-from-permaculture.html).
 * **Mastodon** https://merveilles.town/@neauoire
 
 ### Kartik Agaram
